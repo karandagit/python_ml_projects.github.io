@@ -1,0 +1,27 @@
+	Welcome Webcode Retail
+
+ Bill Number : 1608
+ Customer Name : Neeraj Sharma
+ Phone Number : 2254678645
+============================================
+ Products		QTY		Price
+============================================
+ Face Cream		4		480
+ Face Wash		4		240
+ Hair Gel		1		140
+ Rice		1		40
+ Food Oil		1		120
+ Pulses		1		60
+ Wheat		1		180
+ Sugar		1		140
+ Tea		1		180
+ Maza		3		180
+ Coke		5		300
+ Thumps Up		7		315
+ Limca		1		40
+--------------------------------------------
+ Cosmetic Tax				Rs. 43.0
+ Grocery Tax				Rs. 72.0
+ Cold Drink Tax				Rs. 41.75
+ Total Bill :				Rs. 2571.75
+--------------------------------------------

@@ -1,0 +1,29 @@
+	Welcome Webcode Retail
+
+ Bill Number : 3382
+ Customer Name : Kapil Shah
+ Phone Number : 2234359765
+============================================
+ Products		QTY		Price
+============================================
+ Bath Soap		1		40
+ Face Cream		1		120
+ Face Wash		1		60
+ Hair Gel		2		280
+ Bath lotion		2		360
+ Rice		1		40
+ Food Oil		1		120
+ Pulses		1		60
+ Wheat		1		180
+ Sugar		1		140
+ Tea		1		180
+ Maza		5		300
+ Frooti		5		250
+ Limca		5		200
+ Sprite		0		60
+--------------------------------------------
+ Cosmetic Tax				Rs. 43.0
+ Grocery Tax				Rs. 72.0
+ Cold Drink Tax				Rs. 40.5
+ Total Bill :				Rs. 2545.5
+--------------------------------------------

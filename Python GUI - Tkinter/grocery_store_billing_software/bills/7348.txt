@@ -1,0 +1,24 @@
+	Welcome Webcode Retail
+
+ Bill Number : 7348
+ Customer Name : Rohan Nanda
+ Phone Number : 2264646676
+============================================
+ Products		QTY		Price
+============================================
+ Bath Soap		2		80
+ Face Wash		5		300
+ Spray		1		180
+ Bath lotion		5		900
+ Pulses		2		120
+ Wheat		1		180
+ Tea		2		360
+ Maza		3		180
+ Frooti		4		200
+ Thumps Up		1		45
+--------------------------------------------
+ Cosmetic Tax				Rs. 73.0
+ Grocery Tax				Rs. 66.0
+ Cold Drink Tax				Rs. 21.25
+ Total Bill :				Rs. 2705.25
+--------------------------------------------

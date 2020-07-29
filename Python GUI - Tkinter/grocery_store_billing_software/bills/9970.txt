@@ -1,0 +1,25 @@
+	Welcome Webcode Retail
+
+ Bill Number : 9970
+ Customer Name : Rahul Mishra
+ Phone Number : 2234448765
+============================================
+ Products		QTY		Price
+============================================
+ Face Cream		1		120
+ Face Wash		2		120
+ Spray		2		360
+ Bath lotion		3		540
+ Rice		1		40
+ Food Oil		1		120
+ Pulses		3		180
+ Wheat		1		180
+ Sugar		1		140
+ Maza		4		240
+ Coke		2		120
+--------------------------------------------
+ Cosmetic Tax				Rs. 57.0
+ Grocery Tax				Rs. 66.0
+ Cold Drink Tax				Rs. 18.0
+ Total Bill :				Rs. 2301.0
+--------------------------------------------
